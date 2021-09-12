@@ -21,4 +21,5 @@
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" height="50" width="60" src="https://github.com/microsoft/PowerBI-Icons/blob/bb026ec2f21c130f9523fab2749449c27485c8e3/SVG/PowerBI.svg" />
 </div>
