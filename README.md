@@ -4,7 +4,8 @@ Hello, I'm Thiago Suzuki, I'm 20 years old and I'm a student of Systems Informat
 I currently work as a Systems Development Technician at GBM Tech & Control
 
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-suzuki&layout=compact&langs_count=7&theme=highcontrast"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-suzuki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-suzuki&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
 ## 💻 Programming Languages and Technologies that I have knowledge
