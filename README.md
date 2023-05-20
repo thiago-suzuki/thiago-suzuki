@@ -1,7 +1,7 @@
 ## About Me
 Hello, I'm Thiago Suzuki, I'm 20 years old and I'm a student of Systems Information(TI) at Santa Cecilia University
 
-I currently work as a Systems Development Technician at GBM Tech & Control
+I currently work as a Full Stack Developer Jr at GBM Tech & Control
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-suzuki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
