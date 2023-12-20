@@ -1,14 +1,15 @@
-## About Me
-Hello, I'm Thiago Suzuki, I'm 21 years old and I'm a student of Systems Information(TI) at Santa Cecilia University
-
-I currently work as a Full Stack Developer Jr I at GBM Tech & Control
-
+# Olá, meu nome é Thiago Ikenaga Suzuki
+   - Atuação: Desenvolvedor Full Stack
+- Graduação Completa: Bacharelado em Sistemas de Informação (TI) na Universidade Santa Cecíçia
+  
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-suzuki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-suzuki&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
-## 💻 Programming Languages and Technologies that I have knowledge
+<br>
+
+## 💻 Tecnologias e Ferrmanetas
 <div style="display: inline_block">
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -30,11 +31,14 @@ I currently work as a Full Stack Developer Jr I at GBM Tech & Control
    <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
 
-## Contacts
+<br>
+
+## 👤 Entre em contato comigo
 <div>
   <a href="https://www.instagram.com/thiago__suzuki013/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:thiagoikenaga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-suzuki-8a890121a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thiago-suzuki-8a890121a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5513996042886" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 
