@@ -1,6 +1,6 @@
 # Olá, meu nome é Thiago Ikenaga Suzuki
    - Atuação: Desenvolvedor Full Stack
-- Graduação Completa: Bacharelado em Sistemas de Informação (TI) na Universidade Santa Cecíçia
+- Graduação Completa: Bacharelado em Sistemas de Informação (TI) na Universidade Santa Cecília
   
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-suzuki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
