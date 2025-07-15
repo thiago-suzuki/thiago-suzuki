@@ -1,4 +1,4 @@
-# Olá, meu nome é Thiago Ikenaga Suzuki
+# Olá, meu nome é Thiago Suzuki
    - Atuação: Desenvolvedor Full Stack
    - Graduação Completa: Bacharelado em Sistemas de Informação (TI) na Universidade Santa Cecília
    - Portfolio: https://thiago-suzuki.vercel.app/ 
